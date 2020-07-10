@@ -1,8 +1,4 @@
-### Hi there 👋
-
-<p align="center">
-    <img alt="Profile GIF" src="./ProfileGif.gif" width="70%"/>
-</p>
+[![Hello 👋🏻](https://d3sqnkz18v1llr.cloudfront.net/ProfileGif.gif)](https://karngyan.com)
 
 - 🔭 I’m currently working on a personal project that might help my friends at my college to automate stuff.
 - 🌱 I’m currently learning React.
