@@ -9,9 +9,9 @@
 - 🌱 I’m currently learning React.
 - 💬 Ask me about Spring Boot, AWS, Containers, K8s, Ansible, Internship at Amazon, Crio.Do or Failing interviews at Google.
 - 📫 How to reach me
-  - [Website](karngyan.com)
-  - [Linkedin](linkedin.com/in/karngyan)
-  - [Twitter](twitter.com/gyankarn)
+  - [Website](https://karngyan.com)
+  - [Linkedin](https://linkedin.com/in/karngyan)
+  - [Twitter](https://twitter.com/gyankarn)
   - [Mail](mailto:mail@karngyan.com)
 - 😄 Pronouns: His/Him
 - ⚡ Fun fact: I nerd out of Marvel trivia.
