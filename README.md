@@ -1,4 +1,9 @@
-[![Hello 👋🏻](https://d3sqnkz18v1llr.cloudfront.net/ProfileGif.gif)](https://karngyan.com)
+<h3 align="center">Hello 👋🏻</h3>
+<p align="center">
+  <a href="https://karngyan.com" target="_blank">
+    <img alt="Screenshot 3" src="https://d3sqnkz18v1llr.cloudfront.net/ProfileGif.gif" width="70%"/>
+  </a>
+</p>
 
 - 🔭 I’m currently working on a personal project that might help my friends at my college to automate stuff.
 - 🌱 I’m currently learning React.
