@@ -13,5 +13,5 @@
   - [Linkedin](https://linkedin.com/in/karngyan)
   - [Twitter](https://twitter.com/_karngyan)
   - [Mail](mailto:mail@karngyan.com)
-- 😄 Pronouns: His/Him
-- ⚡ Fun fact: I nerd out of Marvel trivia.
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I nerd out on Marvel trivia.
