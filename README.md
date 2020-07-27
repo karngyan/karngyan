@@ -5,8 +5,8 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on a personal project that might help my friends at my college to automate stuff.
-- 🌱 I’m currently learning React and Go.
+- 🔭 I’m currently working as a Management Trainee at [SendX](https://sendx.io). And I will **probably** be joining Amazon in July 2021 as an SDE-1
+- 🌱 I’m currently learning Vue and Go.
 - 💬 Ask me about Spring Boot, AWS, Containers, K8s, Ansible, Internship at Amazon, Crio.Do, Failing interviews at Google or my personal life by creating a new issue at [this repo](https://github.com/karngyan/karngyan/issues/new?assignees=&labels=question&template=custom.md&title=Question%3A+%5BYour-Title%5D)
 - 📫 How to reach me
   - [Website](https://karngyan.com)
