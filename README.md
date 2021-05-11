@@ -6,7 +6,7 @@
 </p>
 
 - 🔭 I work at Amazon as an SDE intern. I have a PPO. Looking at other companies as well.
-- 💬 Ask me about Spring Boot, AWS, Containers, K8s, Ansible, Internship at Amazon, Crio.Do, SendX, SendPost, Failing interviews at Google or my personal life by creating a new issue at [this repo](https://github.com/karngyan/karngyan/issues/new?assignees=&labels=question&template=custom.md&title=Question%3A+%5BYour-Title%5D)
+- 💬 Ask me about Spring Boot, AWS, Beego, InterviewReady, Golang, Nuxt, Vue, Containers, K8s, Ansible, Internship at Amazon, Crio.Do, SendX, SendPost, Failing interviews at Google or my personal life by creating a new issue at [this repo](https://github.com/karngyan/karngyan/issues/new?assignees=&labels=question&template=custom.md&title=Question%3A+%5BYour-Title%5D)
 - 📫 How to reach me
   - [Website](https://karngyan.com)
   - [Linkedin](https://linkedin.com/in/karngyan)
