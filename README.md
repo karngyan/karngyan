@@ -1,7 +1,9 @@
 <h3 align="center">Hello 👋🏻</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karngyan&count_private=true&show_icons=true&theme=omni" alt="Stats" />
+  <a href="https://karngyan.com/blog" target="_blank">
+    <img src="https://user-images.githubusercontent.com/32811552/168990249-410b53a4-dbc7-4bc6-a9bd-73636b987d78.gif" alt="hero" />
+   </a>
 </p>
 
 <p align="center">
