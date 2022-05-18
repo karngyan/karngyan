@@ -2,7 +2,9 @@
 
 <p align="center">
   <a href="https://karngyan.com/blog" target="_blank">
-    <img src="https://user-images.githubusercontent.com/32811552/168990249-410b53a4-dbc7-4bc6-a9bd-73636b987d78.gif" alt="hero" />
+    <kbd>
+      <img src="https://user-images.githubusercontent.com/32811552/168990249-410b53a4-dbc7-4bc6-a9bd-73636b987d78.gif" alt="hero" />
+    </kbd>
    </a>
 </p>
 
