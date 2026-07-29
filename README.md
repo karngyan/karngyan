@@ -25,17 +25,18 @@ I'm Karn (he/him) — senior software engineer at [Customer.io](https://customer
 
 **[flue](https://github.com/karnstack/flue)** — your terminal, as a browser tab. Reachable from any device you own. Go on the inside, zero friction on the outside. This is where most of my commits land right now.
 
+**[autophagy](https://github.com/karnstack/autophagy)** — the self-improvement layer for local coding agents. Rust. Your agent learns from its own mistakes, so you don't have to repeat yours.
+
+**[tempo](https://github.com/karnstack/tempo)** — open-source engineering metrics for GitHub. Single self-hosted binary; every engineer sees the same data their manager sees.
+
 ## 🛠️ Things I've made
 
 | Project | What it is |
 | --- | --- |
 | [reins](https://github.com/karnstack/reins) | Take the reins of your *real* browser — drive it from the shell: scrape behind logins, replay live API traffic, click/type/screenshot. Built for the agent era. |
 | [kino](https://github.com/karnstack/kino) | Themeable React video player with pluggable providers and Kino Scenes support. |
-| [autophagy](https://github.com/karnstack/autophagy) | The self-improvement layer for local coding agents. Rust. Your agent learns from its own mistakes, so you don't have to repeat yours. |
-| [tempo](https://github.com/karnstack/tempo) | Open-source engineering metrics for GitHub. Single self-hosted binary; every engineer sees the same data their manager sees. |
 | [karngyan.com](https://github.com/karngyan/karngyan.com) | Personal site + blog template — TanStack Start, React 19, Tailwind v4, MDX, RSS, deploys to Cloudflare Workers. Fork it and make it yours. ⭐ 360+ |
 | [resumex](https://github.com/karnstack/resumex) | Resumes as code. |
-| [maek](https://github.com/karngyan/maek) | Open source, self-hostable alternative to apps like mem.ai. |
 
 ## 🐹 Go libraries — [gomantics](https://github.com/gomantics)
 
