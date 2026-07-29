@@ -1,15 +1,6 @@
 <h3 align="center">Hello 👋🏻</h3>
 
 <p align="center">
-  <a href="https://karngyan.com/blog" target="_blank">
-    <picture style="border-radius: 12px; overflow: hidden;">
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.karngyan.com/hero-dark-l.jpeg">
-      <img alt="profile light" src="https://cdn.karngyan.com/hero-light-l.jpeg">
-    </picture>
-  </a>
-</p>
-
-<p align="center">
   <a href="https://karngyan.com" target="_blank">karngyan.com</a>
   &nbsp;·&nbsp;
   <a href="https://twitter.com/gyankarn" target="_blank">twitter</a>
